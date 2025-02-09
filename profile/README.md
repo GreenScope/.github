@@ -9,8 +9,7 @@ At the current stage, Green Scope is just going to record data from different pa
 
 <hr>
 
-![Mind Map of GreenScope](https://github.com/user-attachments/assets/e234e7c3-354a-4fec-b5ca-ff55272b9b00)
-
+![Mind Map of GreenScope](https://github.com/user-attachments/assets/6950e8fe-8b60-4b24-93ce-05709e6e64db)
 
 <hr>
 
