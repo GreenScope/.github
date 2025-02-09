@@ -9,6 +9,11 @@ At the current stage, Green Scope is just going to record data from different pa
 
 <hr>
 
+![Mind Map of GreenScope](https://github.com/user-attachments/assets/e234e7c3-354a-4fec-b5ca-ff55272b9b00)
+
+
+<hr>
+
 # EEDL
 EEDL stands for *ESP32 Environmental Data Logger*. It uses multiple dedicated sensors to take readings and calculate certain values and transmits the values to the GreenScope database using PHP and SQL. The ESP32 serves as the control unit, transmitter and a sequencer. The EEDL costs roughly around Rs 50K and can record the following:
 
